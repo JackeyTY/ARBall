@@ -4,7 +4,7 @@ ARBall
 
 **Game: Yo Mice!**
 
-This is a multi-player mice shooting game. Mice will be spawned randomly around the target image center and player should use the bullet to shoot and kill the mice to earn points.
+This is a multiplayer AR game on iOS using AR Foundation Framework and Photon Engine for cross-platform networking. Mice will be spawned randomly around the target image center and player should use the bullet to shoot and kill the mice to earn points.
 
 1. win/loss condition: player who scores 50 points first wins the game, other players lose
 2. 2 bullets prefabs: cheese and croissant, 2 power-up prefabs: croissant1 and mushroom, and mouse prefab
